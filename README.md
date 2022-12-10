@@ -3,6 +3,6 @@ I am an EnTech major-Software Engineer with diplomas in Computer Science and Tec
 
 # Portfolio
 Click on my WIKI page to access my portfolio.
-
+https://github.com/Sunnie-Dev/sunnie.github.io/wiki
 # Contact Me
 Send me a message here
